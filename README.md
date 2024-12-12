@@ -6,8 +6,6 @@ Desenvolver um programa em Python que permita recolher respostas a um questioná
 
 **O programa deve:**
 
-O programa deve:
-
 Apresentar um questionário com 3 a 5 perguntas.
 
 Permitir que um utilizador insira as suas respostas.
